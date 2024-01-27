@@ -20,7 +20,7 @@ The AudioBook Creator is a simple Python program developed using the tkinter lib
    Ensure that you have the required dependencies installed. You can do this by running:
 
    ```bash
-   pip install tk PyPDF2 pyttsx3
+   pip install PyPDF2
    ```
    
     ```bash
