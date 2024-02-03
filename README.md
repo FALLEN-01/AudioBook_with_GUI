@@ -55,3 +55,7 @@ The AudioBook Creator is a simple Python program developed using the tkinter lib
 - Ensure the PDF file is formatted correctly to achieve optimal results.
 - Make sure the pdf only contains text.
 - Adjust volume settings on your system for an enhanced audio experience.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
